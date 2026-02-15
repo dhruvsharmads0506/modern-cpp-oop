@@ -1,0 +1,24 @@
+# executables
+*.exe
+*.out
+*.app
+
+# object files
+*.o
+*.obj
+
+# logs
+*.log
+
+# temp
+*.tmp
+*.temp
+
+# vscode
+.vscode/
+
+# build folders
+build/
+bin/
+Debug/
+Release/
